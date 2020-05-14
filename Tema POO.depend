@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589460546 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\main.cpp
+	<iostream>
+	<vector>
+	<typeinfo>
+	<Masini.h>
+	<Coupe.h>
+	<Cabrio.h>
+	<HotHatch.h>
+	<Supersport.h>
+	<Expozitie.h>
+
+1578512438 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\cabrio.cpp
+	"Cabrio.h"
+
+1578518629 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\coupe.cpp
+	"Coupe.h"
+	<typeinfo>
+
+1578445299 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\expozitie.cpp
+	"Expozitie.h"
+
+1578512438 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\hothatch.cpp
+	"HotHatch.h"
+
+1578512017 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\masini.cpp
+	"Masini.h"
+
+1578512043 source:c:\users\robofun\dropbox\my pc (virtualeffect)\desktop\tema poo\src\supersport.cpp
+	"Supersport.h"
+
